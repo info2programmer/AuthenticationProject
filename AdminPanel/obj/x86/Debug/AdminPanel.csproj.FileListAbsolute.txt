@@ -1,0 +1,9 @@
+C:\Users\Programmer-PC\documents\visual studio 2010\Projects\AuthenticationProject\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\Programmer-PC\documents\visual studio 2010\Projects\AuthenticationProject\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\Programmer-PC\documents\visual studio 2010\Projects\AuthenticationProject\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\Programmer-PC\documents\visual studio 2010\Projects\AuthenticationProject\AdminPanel\obj\x86\Debug\AdminPanel.Form1.resources
+C:\Users\Programmer-PC\documents\visual studio 2010\Projects\AuthenticationProject\AdminPanel\obj\x86\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\Programmer-PC\documents\visual studio 2010\Projects\AuthenticationProject\AdminPanel\obj\x86\Debug\AdminPanel.csproj.GenerateResource.Cache
+C:\Users\Programmer-PC\documents\visual studio 2010\Projects\AuthenticationProject\AdminPanel\obj\x86\Debug\AdminPanel.exe
+C:\Users\Programmer-PC\documents\visual studio 2010\Projects\AuthenticationProject\AdminPanel\obj\x86\Debug\AdminPanel.pdb
+C:\Users\Programmer-PC\documents\visual studio 2010\Projects\AuthenticationProject\AdminPanel\obj\x86\Debug\AdminPanel.csprojResolveAssemblyReference.cache
